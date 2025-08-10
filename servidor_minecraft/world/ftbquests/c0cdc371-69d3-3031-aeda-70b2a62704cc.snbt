@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "c0cdc37169d33031aeda70b2a62704cc"
+	name: "GaryX_c#c0cdc371"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		11BEA03A82966C5B: 1
+	}
+	started: {
+		7CEC01561E744EFD: 1754804554028L
+		11BEA03A82966C5B: 1754804554028L
+		0000000000000001: 1754804554028L
+		51FE38DFB14D1D53: 1754804554028L
+	}
+	completed: {
+		7CEC01561E744EFD: 1754804554036L
+		11BEA03A82966C5B: 1754804554036L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "c0cdc371-69d3-3031-aeda-70b2a62704cc"
+	type: "player"
+	player_name: "GaryX_c"
+	ranks: {
+		c0cdc371-69d3-3031-aeda-70b2a62704cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GaryX_c"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
